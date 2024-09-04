@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Design:
+- [Redesign Porsches website](https://www.behance.net/gallery/164101311/Redesign-Porsches-website)
+- [Laura Venturini](https://www.linkedin.com/in/lauraventuriniminotto/)
 
 ## Getting Started
 
